@@ -1,0 +1,17 @@
+[
+    ["NTQAACCESS", "NTQA Access", "ndirden", "software"],
+    ["NTQAACCRG","NTQA Access RG",  "ndirden", "software"],
+    ["NTQAEVS","NTQA Enterprise VoIP Solutionas", "ndirden", "software"],
+    ["NTQAETH","NTQA Ethernet", "ndirden", "software"],
+    ["NTQAINTER", "NTQA Internet",  "ndirden", "software"],
+    ["NTQAMEDIA", "NTQA Media", "ndirden", "software"],	
+    ["NTQAOPSEN", "NTQA Operations Enablement", "ndirden", "software"],
+    ["NTQASDNNFV", "NTQA SDN/NFV", "ndirden", "software"],
+    ["NTQATSTLAB", "NTQA Test Lab", "ndirden", "software"],
+    ["NTQATR", "NTQA Test Request", "ndirden", "software"],
+    ["NTQATXTEST", "NTQA Transport Test", "ndirden", "software"],
+    ["NTQAVCS", "NTQA VoIP Core Solutions", "ndirden", "software"],
+    ["NTQAVPN", "NTQA VPN", "ndirden", "software"],
+    ["NTQAWIRLSS", "NTQA Wireless", "ndirden", "software"],
+]
+
